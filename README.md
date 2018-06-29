@@ -1,5 +1,5 @@
 # digitClassifier_MNIST
-This is a simple Machine Learning aaplication, built using Python that aims to classify Hand written digits.
+This is a simple Machine Learning application, built using Python that aims to classify Hand written digits.
 
 ![screen shot 2018-06-29 at 10 10 14 am](https://user-images.githubusercontent.com/13464773/42073507-d5d7e474-7b84-11e8-99e6-806f21ca3831.png)
 
