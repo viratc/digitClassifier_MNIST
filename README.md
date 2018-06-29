@@ -7,7 +7,9 @@ This is a simple Machine Learning application, built using Python that aims to c
 
 ### Prerequisites
 
-Python 3.6, numpy 1.13.3, Tensorflow 1.8
+This application was built using 
+
+    Python 3.6, jupyter notebook 4.3.1
 
 ### Dataset
 
